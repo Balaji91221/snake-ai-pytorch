@@ -42,5 +42,8 @@ During the training phase, the neural network refines its predictions based on t
 ## Contributions
 
 Contributions to the project are welcome! Feel free to explore, suggest enhancements, or submit pull requests.
+## Reference
+
+This project was created with reference to  [YouTube](https://www.youtube.com/watch?v=PJl4iabBEz0&list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV&index=2).
 
 Thank you for being part of the AI Snake project! Happy coding! 🐍🤖
