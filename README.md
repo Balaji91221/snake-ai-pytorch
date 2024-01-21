@@ -1,18 +1,46 @@
-# Teach AI To Play Snake! Reinforcement Learning With PyTorch and Pygame
+# AI Snake: Reinforcement Learning with PyTorch and Pygame
 
-### Reinforcement Learning  is an area  of machine learning concerned with how software agents ought  to take actions is an environment  in order  to maximize the notion of cumulative reward 
- #### or 
- ### RL is teaching a software  agent how to behave in an environment by telling  it how good it's doing
+## Overview
+
+Welcome to the AI Snake project, a reinforcement learning endeavor that trains software agents to play the classic Snake game. Reinforcement learning focuses on guiding agents to take actions in an environment to maximize cumulative rewards. In simpler terms, it involves teaching an agent to behave effectively by evaluating its performance based on the concept of rewards.
+
+## Reinforcement Learning
+
+In the context of this project, reinforcement learning teaches our software agent how to navigate the Snake game environment by assessing its performance. The goal is to guide the agent to make decisions that lead to maximizing its cumulative rewards.
 
 
- ##  Deep learning 
- ### This approach extends reinforcement learning by using a deep neural network to predict the actions
+## Project Structure
 
- ![Alt text](assets/image.png)
- ![Alt text](assets/image-1.png)
- ![Alt text](assets/image-2.png)
- ![Alt text](assets/image-3.png)
+The project includes the following components:
 
- ## Bellman Equation
- ![Alt text](assets/image-4.png)
- ![Alt text](assets/image-5.png)
+- **Snake Game Environment:** Modeled using Pygame, providing a visually interactive platform for the AI agent to navigate.
+
+
+
+## Images
+
+![Game Start](assets/image.png)
+
+![Game In Progress 1](assets/image-1.png)
+
+![Game In Progress 2](assets/image-2.png)
+
+![Game Over](assets/image-3.png)
+
+## Bellman Equation
+
+The project incorporates the Bellman Equation, a key concept in reinforcement learning. This equation plays a crucial role in evaluating the expected rewards and shaping the agent's decision-making process.
+
+![Bellman Equation](assets/image-4.png)
+
+## Model Training
+
+During the training phase, the neural network refines its predictions based on the Bellman Equation and the agent's experiences in the Snake game environment.
+
+
+
+## Contributions
+
+Contributions to the project are welcome! Feel free to explore, suggest enhancements, or submit pull requests.
+
+Thank you for being part of the AI Snake project! Happy coding! 🐍🤖
